@@ -355,7 +355,7 @@ function App() {
                 marginTop: "-10px",
               }}
             >
-              My Collection
+              Marketplace
        </s.TextNav>
           </div>
 
