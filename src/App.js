@@ -164,7 +164,7 @@ function App() {
     },
 {
       title: 'How do I see them or trade?',
-      content: `Soon you will have a wallet viewer where you can see all your minted Punks! For now you can add them on Metamask. In addition, a NFT Marketplace is being developed for Shibarium Mainnet in which you will exchange your Punks! Stay tuned...
+      content: `Soon you will have a wallet viewer where you can see all your minted Punks! For now you can add them on Metamask. In addition, a NFT Marketplace is being developed for Shibarium Mainnet in which you will exchange your Punks and win revenue share from fees! Stay tuned...
       `},
   ];
   const dispatch = useDispatch();
