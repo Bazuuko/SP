@@ -162,6 +162,10 @@ function App() {
       title: 'Wait so... how much is the supply right now?',
       content: `5555 Male-based Shibarium Punks is the first minting phase of our project that will be live a the moment Shibarium goes live!. Go mint yours above don't be late!`
     },
+{
+      title: 'How do I see them or trade?',
+      content: `Soon you will have a wallet viewer where you can see all your minted Punks! For now you can add them on Metamask. In addition, a NFT Marketplace is being developed for Shibarium Mainnet in which you will exchange your Punks! Stay tuned...
+      `},
   ];
   const dispatch = useDispatch();
   const aboutRef = useRef(null);
