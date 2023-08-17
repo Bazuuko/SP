@@ -44,7 +44,7 @@ b {
   display: flex;
   align-items: center;
   padding: 15px;
-  perspective: 100px;
+  perspective: 115px;
 }
 
 * {
