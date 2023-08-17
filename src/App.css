@@ -12,7 +12,7 @@ b {
   }
 
   100% {
-    transform: translateX(calc(-210px*25));
+    transform: translateX(calc(-210px*30));
   }
 }
 
@@ -30,8 +30,8 @@ b {
 
 .slide-track {
   display: flex;
-  width: calc(200px*25);
-  animation: scroll 40s linear infinite;
+  width: calc(200px*30);
+  animation: scroll 60s linear infinite;
 }
 
 .slide-track:hover {
