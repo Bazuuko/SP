@@ -290,6 +290,15 @@ function App() {
     );
   };
 
+const handleCollection = () => {
+    window.open(
+      'https://wallet.shibariumpunks.net/',
+      '_blank'
+    );
+  };
+
+
+
   const handleTelegram = () => {
     window.open(
       'https://t.me/PunksShibarium',
@@ -347,7 +356,7 @@ function App() {
        </s.TextNav>
           </div>
 
-          <div className="option2" style={{marginLeft:"0px"}}>
+          <div className="option2" style={{marginLeft:"0px"}} onClick={handleCollection}>
           <s.TextNav
             style={{
                 textAlign: "center",
@@ -357,6 +366,7 @@ function App() {
                 letterSpacing: 2,
                 color: "var(--accent-text)",
                 marginTop: "-10px",
+                cursor: "pointer"
               }}
             >
               My Collection
