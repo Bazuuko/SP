@@ -828,7 +828,178 @@ The Shibarium Punks is a NFT collection of 24x24 pixelated artworks generated al
 <s.SpacerLargeXX />
 <s.SpacerLargeX />
 
+<div class="mint">
+      <div class="slider">
+        <div class="slide-track">
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/1.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/2.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/3.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/4.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/5.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/6.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/7.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/8.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/9.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/10.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/11.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/12.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/13.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/14.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/15.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/16.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/punks/49.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/50.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/51.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/56.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/34.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/38.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/53.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/43.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/16.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/21.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/punks/35.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/14.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/55.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/57.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/95.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/103.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/punks/43.png"}
+          />
+          </div>
 
+      </div>
+      </div>
+      </div>
 
       
 <s.SpacerLargeXX />
