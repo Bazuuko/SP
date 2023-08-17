@@ -431,84 +431,85 @@ function App() {
         <div class="slide-track">
           <div class="slide">
           <StyledImg3
-            src={"/config/images/punks/1.png"}
+            src={"./styles/img/punks/1.png"}
           />
           </div>
           <div class="slide">
           <StyledImg3
-            src={"/config/images/punks/2.png"}
+            src={"./styles/img/punks/2.png"}
           />
           </div>
           <div class="slide">
           <StyledImg3
-            src={"/config/images/punks/3.png"}
+            src={"./styles/img/punks/3.png"}
           />
           </div>
           <div class="slide">
           <StyledImg3
-            src={"/config/images/punks/4.png"}
+            src={"./styles/img/punks/4.png"}
           />
           </div>
           <div class="slide">
           <StyledImg3
-            src={"/config/images/punks/5.png"}
+            src={"./styles/img/punks/5.png"}
           />
           </div>
           <div class="slide">
           <StyledImg3
-            src={"/config/images/punks/6.png"}
+            src={"./styles/img/punks/6.png"}
           />
           </div>
           <div class="slide">
           <StyledImg3
-            src={"/config/images/punks/7.png"}
+            src={"./styles/img/punks/7.png"}
           />
           </div>
           <div class="slide">
           <StyledImg3
-            src={"/config/images/punks/8.png"}
+            src={"./styles/img/punks/8.png"}
           />
           </div>
           <div class="slide">
           <StyledImg3
-            src={"/config/images/punks/9.png"}
+            src={"./styles/img/punks/9.png"}
           />
           </div>
           <div class="slide">
           <StyledImg3
-            src={"/config/images/punks/10.png"}
+            src={"./styles/img/punks/10.png"}
           />
           </div>
           <div class="slide">
           <StyledImg3
-            src={"/config/images/punks/11.png"}
+            src={"./styles/img/punks/11.png"}
           />
           </div>
           <div class="slide">
           <StyledImg3
-            src={"/config/images/punks/12.png"}
+            src={"./styles/img/punks/12.png"}
           />
           </div>
           <div class="slide">
           <StyledImg3
-            src={"/config/images/punks/13.png"}
+            src={"./styles/img/punks/13.png"}
           />
           </div>
           <div class="slide">
           <StyledImg3
-            src={"/config/images/punks/14.png"}
+            src={"./styles/img/punks/14.png"}
           />
           </div>
           <div class="slide">
           <StyledImg3
-            src={"/config/images/punks/15.png"}
+            src={"./styles/img/punks/15.png"}
           />
           </div>
           <div class="slide">
           <StyledImg3
-            src={"/config/images/punks/16.png"}
+            src={"./styles/img/punks/16.png"}
           />
           </div>
+
       </div>
       </div>
       </div>
