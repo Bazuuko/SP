@@ -938,7 +938,7 @@ The Shibarium Punks is a NFT collection of 24x24 pixelated artworks generated al
                         }}
                       >
                         
-                      You must be connected to the Shibarium network
+                      Shibarium network is currently clogged
                       </s.TextDescription>
                       <s.TextDescription
                         style={{
@@ -948,7 +948,7 @@ The Shibarium Punks is a NFT collection of 24x24 pixelated artworks generated al
                         }}
                       >
                         
-                        Please wait for its official release
+                        Please wait for official announcements
                       </s.TextDescription>
                       
                     </>
