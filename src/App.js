@@ -1047,16 +1047,6 @@ The Shibarium Punks is a NFT collection of 24x24 pixelated artworks generated al
       <s.SpacerLargeX />
       <s.SpacerSmall />
 
-      <s.Container
-          flex={1}
-          jc={"center"}
-          ai={"center"}
-          style={{
-            borderRadius: 30,
-
-          }}
-          
-        >
           
  
       <div class="accordion" ref={faqRef}>
