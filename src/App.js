@@ -1739,7 +1739,7 @@ The Shibarium Punks is a NFT collection of 24x24 pixelated artworks generated al
               <s.TextTitle2
                 style={{ textAlign: "center", color: "var(--accent-text)", fontSize: 28 }}
               >
-                Mint price is 10 <b>$BONE</b>
+                Mint price is 8 <b>$BONE</b>
               </s.TextTitle2>
               <s.SpacerLargeX />
               {blockchain.account === "" ||
