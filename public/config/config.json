@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0x44c080aa6692c3307e5c28ad014b302afe9fd2bb",
+  "CONTRACT_ADDRESS": "0x258B201aF9FFC942cA880597975CA3D3daaD5966",
   "SCAN_LINK": "https://goerli.etherscan.io/token/0x44c080aa6692c3307e5c28ad014b302afe9fd2bb",
   "NETWORK": {
     "NAME": "Shibarium",
     "SYMBOL": "BONE",
-    "ID": 5
+    "ID": 109
   },
   "NFT_NAME": "Shibarium Punks",
   "SYMBOL": "SP",
   "MAX_SUPPLY": 5555,
-  "WEI_COST": 10,
-  "DISPLAY_COST": 10,
+  "WEI_COST": 8000000000000000000,
+  "DISPLAY_COST": 8,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Soon",
   "MARKETPLACE_LINK": "",
